@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Open-source projects<br>🤝 I’m looking for help with MERN developers<br>📫 How to reach me anshdulewale68@gmail.com<br>💬 Ask me about Javascript<br>⚡ Fun fact 
+<br>👯 I’m looking to collaborate on Open-source projects<br>🤝 I’m looking for help with MERN developers<br>📫 How to reach me anshdulewale68@gmail.com<br>
 
 
 ## 🌐 Socials:
